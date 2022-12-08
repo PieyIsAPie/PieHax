@@ -4,7 +4,9 @@ Small and modular WiiU CFW based off of Tiramisu and Aroma
 # Included
 
 Region Free Patching (DRC and normal)
+
 WUMS Loader
+
 WiiU Plugin Backend
 
 # Credits
